@@ -1,5 +1,27 @@
 # TicTacToe
 
+Quick Start and serve:
+
+```
+$ yarn # npm install -g @angular/cli
+$ yarn # npm install
+$ yarn build # npm run start
+```
+
+## Tools used
+
+Angular Language Services [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+
+Nx Console [VS Code extension](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
+
+TypeScript
+
+SCSS
+
+Nebular Theming 
+
+## Auto generated material
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
 ## Development server
